@@ -7,3 +7,5 @@ def TestApp()
 {
     echo "This is Test App"
 }
+
+return this
